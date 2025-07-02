@@ -1,0 +1,42 @@
+** Order **
+Fried Eggs
+50 ALL, 1
+Boiled Eggs
+30 ALL, 1
+Total: 64.0 ALL
+***
+
+
+** Order **
+Fried Eggs
+50 ALL, 1
+Sausage Burek
+70 ALL, 1
+Total: 120.0 ALL
+***
+
+
+** Order **
+Plain Rice
+100 ALL, 1
+Tomato Soup
+250 ALL, 1
+Salep
+100 ALL, 1
+Vegetable Soup
+250 ALL, 1
+Total: 560.0 ALL
+***
+
+
+** Order **
+Chicken Sandwich
+250 ALL, 1
+Chicken Gyro
+250 ALL, 1
+Simple Sandwich
+100 ALL, 3
+Total: 640.0 ALL
+***
+
+
